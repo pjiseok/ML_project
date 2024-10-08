@@ -11,13 +11,13 @@
 - 데이터 밖 진짜 파산 회사 데이터가져오기
 
 
-파일명
-train_data : 전체 데이터에서 80% 분리한 트레인 데이터
-test_data : 전체 데이터에서 20%차지하는 테스트데이터 (모델학습x)
+파일명</br>
+train_data : 전체 데이터에서 80% 분리한 트레인 데이터</br>
+test_data : 전체 데이터에서 20%차지하는 테스트데이터 (모델학습x)</br>
 
-train_data_reduced : 0.01미만의 낮은 특성중요도 제거한 트레인데이터 (54개 특성제거)
-test_data_reduced : 낮은 특성중요도 제거한 테스트 데이터
-low_importance_features : 제거한 54개의 특성
+train_data_reduced : 0.01미만의 낮은 특성중요도 제거한 트레인데이터 (54개 특성제거)</br>
+test_data_reduced : 낮은 특성중요도 제거한 테스트 데이터</br>
+low_importance_features : 제거한 54개의 특성</br>
 
 ### <최종>
 - 언더샘플링 기법을 사용함
